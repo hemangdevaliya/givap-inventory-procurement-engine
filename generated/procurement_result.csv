@@ -1,0 +1,9 @@
+SKU,Item_Name,Weekly_Units_Sold,Current_Stock,Unit_Cost_INR,Selling_Price_INR,Profit_Per_Unit,Total_Profit,Decision_Result
+SKU-AMU-01,Amul Taaza Fresh Milk 1L,850,40,54,58,4,3400,add stock
+SKU-MAG-04,Maggi 2-Min Noodles 12pk,420,25,140,168,28,11760,add stock
+SKU-TAT-06,Tata Salt 1kg,190,180,24,28,4,760,no new stock needed
+SKU-MDH-08,MDH Chunky Chat Masala 100g,2,95,65,78,13,26,remove stock
+SKU-SUF-09,Surf Excel Easy Wash 1kg,110,12,130,170,40,4400,no new stock needed
+SKU-BRK-12,Brooke Bond Red Label Tea 250g,85,90,95,115,20,1700,no new stock needed
+SKU-ASH-02,Aashirvaad Shudh Chakki Atta 5kg,310,290,210,260,50,15500,no new stock needed
+SKU-NIM-15,Nirma Washing Powder 1kg,40,150,55,60,5,200,remove stock
